@@ -58,18 +58,56 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 
 ## 🧩 Featured Repos (a.k.a. My Trophy Case)
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/abel2800/Guzo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Guzo&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
-<a href="https://github.com/abel2800/Ethiopian-global-logistics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Ethiopian-global-logistics&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
-<a href="https://github.com/abel2800/Bible-Pulse-Amharic-Bible-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Bible-Pulse-Amharic-Bible-&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
-<a href="https://github.com/abel2800/Campus-Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Campus-Hub&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
-<a href="https://github.com/abel2800/Abel-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Abel-portfolio&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
-<a href="https://github.com/abel2800/Rust-Town"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Rust-Town&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
+### 🚚 [GUZO](https://github.com/abel2800/Guzo)
+Full Ethiopian logistics ecosystem — customer app, driver app, merchant + admin dashboards, warehouse management, live tracking. My magnum opus.
+<br/>`TypeScript`
 
-*(Yes, `Rust-Town` is C# not Rust. Naming things is the hardest problem in computer science and I am not exempt.)*
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 🌍 [Ethiopian-global-logistics](https://github.com/abel2800/Ethiopian-global-logistics)
+Complete logistics tracking and order management system, built end-to-end.
+<br/>`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 [Bible-Pulse-Amharic-Bible](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)
+Cross-platform Flutter Bible study app — multiple translations (KJV, ASV, Amharic), devotionals, reading plans, hymns library.
+<br/>`Dart`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Campus-Hub](https://github.com/abel2800/Campus-Hub)
+Learning Management System built because complaining about my school's actual LMS wasn't shipping fast enough.
+<br/>`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Abel-portfolio](https://github.com/abel2800/Abel-portfolio)
+My personal site — bold colors, scroll animations, and proof I can design as well as I can code.
+<br/>`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ [Rust-Town](https://github.com/abel2800/Rust-Town)
+A game project. Yes, it's written in C#, not Rust. Naming things is the hardest problem in computer science and I am not exempt.
+<br/>`C#`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -120,9 +158,9 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<sub>*(Add the `snk` GitHub Action to your profile repo and this will animate for real — details at the bottom 👇)*</sub>
+<sub>*(This image goes live the moment the GitHub Action below runs once — see setup step at the bottom 👇)*</sub>
 
 </div>
 
@@ -155,11 +193,8 @@ $ cat current_focus.txt
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-sirak/)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://abel-portfolio-iota.vercel.app/)
-
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:absir28@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abel2800)
 
 <br/>
@@ -171,3 +206,48 @@ $ cat current_focus.txt
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:10b981,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
+
+---
+
+<details>
+<summary>🔧 One-time setup: make the snake animation actually run (click to expand)</summary>
+
+<br/>
+
+In your `abel2800/abel2800` repo, create `.github/workflows/snake.yml` with this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: abel2800
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Commit that file, run the workflow once from the **Actions** tab (or just push), and the `output` branch gets created automatically with the snake SVG. After that first run, the image in this README will load.
+
+</details>
