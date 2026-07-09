@@ -155,6 +155,16 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 
 ---
 
+## 🐍 Snek Eating My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
 ## 🏆 Achievements Unlocked
 
 - 🚀 Shipped a full logistics platform (customer + driver + merchant + admin + warehouse) solo-ish
