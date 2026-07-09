@@ -1,16 +1,173 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abel2800/abel2800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:f59e0b&height=220&section=header&text=Kebede%20Abel%20Sirak&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20that%20break%20production%20(and%20then%20I%20fix%20them)&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Building+GUZO+-+Ethiopia's+Logistics+Backbone+%F0%9F%9A%9A;Turning+Coffee+Into+Code+Since+College+%E2%98%95;Ask+Me+Why+My+Repo+Is+Called+Rust-Town+%F0%9F%A4%A0&font=Fira%20Code&center=true&width=650&height=45&color=10B981&vCenter=true&size=22&pause=1500" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abel2800&label=Profile%20Views&color=10b981&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/abel2800?label=Followers&style=for-the-badge&color=f59e0b" />
+<img src="https://img.shields.io/badge/Status-Shipping%20GUZO-0f172a?style=for-the-badge&logo=rocket&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 🇪🇹 About the Human Behind the Commits
+
+```typescript
+const abel = {
+  location: "Addis Ababa, Ethiopia 🇪🇹",
+  degree: "B.Sc. Computer Science @ Ankang University, China",
+  currentMission: "Building GUZO — a Cainiao-style logistics ecosystem, but Ethiopian",
+  personality: "50% engineer, 50% comedian, 100% will-fix-it-tonight energy",
+  superpower: "Turning 'that's impossible' into 'give me a weekend'",
+  weakness: "Choosing a Netflix movie takes longer than shipping a feature",
+};
+```
+
+> 💬 **Fun fact:** I don't have bugs. I have *undocumented features* with a very aggressive rollout strategy.
+
+I don't build tutorials. I build **products people actually use** — apps with real users, real payments, real drivers stuck in real Addis Ababa traffic. If it ships and someone yells at me when it's down, it counts as a real project.
+
+---
+
+## 🚚 The Big One: GUZO
+
+<div align="left">
+
+**GUZO** is my flagship build — a full logistics ecosystem for Ethiopia, inspired by Cainiao, powered by way too much caffeine.
+
+| Module | Status |
+|---|---|
+| 📱 Customer App | ✅ Shipped |
+| 🚗 Driver App | ✅ Shipped |
+| 🏪 Merchant Dashboard | ✅ Shipped |
+| 🛠️ Admin Dashboard | ✅ Shipped |
+| 📦 Warehouse Management | ✅ Shipped |
+| 🗺️ Live Order Tracking + Route Optimization | ✅ Shipped |
+| 💳 Ethiopian Payment Integration | ✅ Shipped |
+| 🚛 Fleet & Courier Management | ✅ Shipped |
+
+It's basically the reason my GitHub streak looks suspicious — 90% of my commits happen between 11PM and 3AM.
+
+</div>
+
+---
+
+## 🧩 Featured Repos (a.k.a. My Trophy Case)
+
+<div align="center">
+
+<a href="https://github.com/abel2800/Guzo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Guzo&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
+<a href="https://github.com/abel2800/Ethiopian-global-logistics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Ethiopian-global-logistics&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
+<a href="https://github.com/abel2800/Bible-Pulse-Amharic-Bible-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Bible-Pulse-Amharic-Bible-&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
+<a href="https://github.com/abel2800/Campus-Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Campus-Hub&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
+<a href="https://github.com/abel2800/Abel-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Abel-portfolio&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
+<a href="https://github.com/abel2800/Rust-Town"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abel2800&repo=Rust-Town&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" /></a>
+
+*(Yes, `Rust-Town` is C# not Rust. Naming things is the hardest problem in computer science and I am not exempt.)*
+
+</div>
+
+---
+
+## 🛠️ Tech Stack (a.k.a. My Weapons of Choice)
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
+
+**Mobile & Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,java,python,c" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" />
+
+</div>
+
+---
+
+## 📊 The Receipts (GitHub Stats)
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&icon_color=f59e0b&text_color=e2e8f0" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abel2800&theme=react&hide_border=true&background=0f172a&ring=10b981&fire=f59e0b&currStreakLabel=10b981" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=react-dark&hide_border=true&bg_color=0f172a&color=10b981&line=f59e0b&point=ffffff" width="90%"/>
+
+</div>
+
+---
+
+## 🐍 Snek Eating My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake.svg" width="100%" />
+
+<sub>*(Add the `snk` GitHub Action to your profile repo and this will animate for real — details at the bottom 👇)*</sub>
+
+</div>
+
+---
+
+## 🏆 Achievements Unlocked
+
+- 🚀 Shipped a full logistics platform (customer + driver + merchant + admin + warehouse) solo-ish
+- 📖 Built a Bible study app in Amharic *and* English because representation matters
+- 🎓 Built a Campus Hub LMS instead of just complaining about my school's actual LMS
+- 🎮 Built shooting games because sometimes you need to blow off steam in code, not in real life
+- ☕ Successfully converted 1,000+ cups of coffee into working software
+
+---
+
+## 🎯 Current Focus
+
+```bash
+$ cat current_focus.txt
+> Scaling GUZO across Ethiopian cities
+> Getting comfortable with Flutter state management (send help)
+> Learning to say "no" to feature requests at 2AM
+> Pretending my code doesn't have TODO comments from 2024
+```
+
+---
+
+## 📬 Let's Build Something
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-sirak/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://abel-portfolio-iota.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:absir28@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abel2800)
+
+<br/>
+
+> *"It's not a bug, it's an undocumented feature."* — Me, defending my life choices at 3AM
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:10b981,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
