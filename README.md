@@ -125,7 +125,7 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 
 **Mobile & Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,python,c,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,c,cpp,cs" />
 
 **Tools**
 <br/>
