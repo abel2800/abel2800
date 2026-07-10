@@ -117,20 +117,19 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite,redux,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
 
 **Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,mongodb,sqlite,firebase,supabase,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
 
 **Mobile & Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,python,c,cpp,cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,python,c,cpp,cs" />
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman,figma,docker,linux,npm,vercel,netlify" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman,figma" />
 ---
 
 ## 📊 The Receipts (GitHub Stats)
