@@ -33,29 +33,6 @@ I don't build tutorials. I build **products people actually use** — apps with 
 
 ---
 
-## 🚚 The Big One: GUZO
-
-<div align="left">
-
-**GUZO** is my flagship build — a full logistics ecosystem for Ethiopia, inspired by Cainiao, powered by way too much caffeine.
-
-| Module | Status |
-|---|---|
-| 📱 Customer App | ✅ Shipped |
-| 🚗 Driver App | ✅ Shipped |
-| 🏪 Merchant Dashboard | ✅ Shipped |
-| 🛠️ Admin Dashboard | ✅ Shipped |
-| 📦 Warehouse Management | ✅ Shipped |
-| 🗺️ Live Order Tracking + Route Optimization | ✅ Shipped |
-| 💳 Ethiopian Payment Integration | ✅ Shipped |
-| 🚛 Fleet & Courier Management | ✅ Shipped |
-
-It's basically the reason my GitHub streak looks suspicious — 90% of my commits happen between 11PM and 3AM.
-
-</div>
-
----
-
 ## 🧩 Featured Repos (a.k.a. My Trophy Case)
 
 <table width="100%">
@@ -108,6 +85,29 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 </td>
 </tr>
 </table>
+
+---
+
+## 🚚 The Big One: GUZO
+
+<div align="left">
+
+**GUZO** is my flagship build — a full logistics ecosystem for Ethiopia, inspired by Cainiao, powered by way too much caffeine.
+
+| Module | Status |
+|---|---|
+| 📱 Customer App | ✅ Shipped |
+| 🚗 Driver App | ✅ Shipped |
+| 🏪 Merchant Dashboard | ✅ Shipped |
+| 🛠️ Admin Dashboard | ✅ Shipped |
+| 📦 Warehouse Management | ✅ Shipped |
+| 🗺️ Live Order Tracking + Route Optimization | ✅ Shipped |
+| 💳 Ethiopian Payment Integration | ✅ Shipped |
+| 🚛 Fleet & Courier Management | ✅ Shipped |
+
+It's basically the reason my GitHub streak looks suspicious — 90% of my commits happen between 11PM and 3AM.
+
+</div>
 
 ---
 
