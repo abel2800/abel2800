@@ -3,15 +3,9 @@ give me the full code and the snake eatigng my contrbution and tin the recipt (g
 
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=abel2800&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:f59e0b&height=220&section=header&text=Kebede%20Abel%20Sirak&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20that%20break%20production%20(and%20then%20I%20fix%20them)&descAlignY=58&descSize=18" width="100%"/>
 
-<img
-height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Building+GUZO+-+Ethiopia's+Logistics+Backbone+%F0%9F%9A%9A;Turning+Coffee+Into+Code+Since+College+%E2%98%95;Ask+Me+Why+My+Repo+Is+Called+Rust-Town+%F0%9F%A4%A0&font=Fira%20Code&center=true&width=650&height=45&color=10B981&vCenter=true&size=22&pause=1500" />
 
 <br/>
 
@@ -261,3 +255,5 @@ jobs:
 Commit that file, run the workflow once from the **Actions** tab (or just push), and the `output` branch gets created automatically with the snake SVG. After that first run, the image in this README will load.
 
 </details>
+
+why do i have a broken image in the image us you can see 
