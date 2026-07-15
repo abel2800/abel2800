@@ -9,6 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=abel2800&label=Profile%20Views&color=10b981&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/abel2800?label=Followers&style=for-the-badge&color=f59e0b" />
 <img src="https://img.shields.io/badge/Status-Shipping%20GUZO-0f172a?style=for-the-badge&logo=rocket&logoColor=white" />
+
 </div>
 
 <br/>
@@ -30,71 +31,75 @@ const abel = {
 
 I don't build tutorials. I build **products people actually use** — apps with real users, real payments, real drivers stuck in real Addis Ababa traffic. If it ships and someone yells at me when it's down, it counts as a real project.
 
----
+<br/>
 
 ## 🧩 Featured Repos (a.k.a. My Trophy Case)
 
+<div align="center">
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🚚 [GUZO](https://github.com/abel2800/Guzo)
 Full Ethiopian logistics ecosystem — customer app, driver app, merchant + admin dashboards, warehouse management, live tracking. My magnum opus.
-<br/>`TypeScript`
+<br/><br/>`TypeScript`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🌍 [Ethiopian-global-logistics](https://github.com/abel2800/Ethiopian-global-logistics)
 Complete logistics tracking and order management system, built end-to-end.
-<br/>`JavaScript`
+<br/><br/>`JavaScript`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 📖 [Bible-Pulse-Amharic-Bible](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)
 Cross-platform Flutter Bible study app — multiple translations (KJV, ASV, Amharic), devotionals, reading plans, hymns library.
-<br/>`Dart`
+<br/><br/>`Dart`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🎓 [Campus-Hub](https://github.com/abel2800/Campus-Hub)
 Learning Management System built because complaining about my school's actual LMS wasn't shipping fast enough.
-<br/>`JavaScript`
+<br/><br/>`JavaScript`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🌐 [Abel-portfolio](https://github.com/abel2800/Abel-portfolio)
 My personal site — bold colors, scroll animations, and proof I can design as well as I can code.
-<br/>`JavaScript`
+<br/><br/>`JavaScript`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🏙️ [Rust-Town](https://github.com/abel2800/Rust-Town)
 A game project. Yes, it's written in C#, not Rust. Naming things is the hardest problem in computer science and I am not exempt.
-<br/>`C#`
+<br/><br/>`C#`
 
 </td>
 </tr>
 </table>
 
----
+</div>
+
+<br/>
 
 ## 🚚 The Big One: GUZO
 
-<div align="left">
-
 **GUZO** is my flagship build — a full logistics ecosystem for Ethiopia, inspired by Cainiao, powered by way too much caffeine.
 
+<div align="center">
+
 | Module | Status |
-|---|---|
+|---|:---:|
 | 📱 Customer App | ✅ Shipped |
 | 🚗 Driver App | ✅ Shipped |
 | 🏪 Merchant Dashboard | ✅ Shipped |
@@ -104,11 +109,11 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 | 💳 Ethiopian Payment Integration | ✅ Shipped |
 | 🚛 Fleet & Courier Management | ✅ Shipped |
 
-It's basically the reason my GitHub streak looks suspicious — 90% of my commits happen between 11PM and 3AM.
-
 </div>
 
----
+It's basically the reason my GitHub streak looks suspicious — 90% of my commits happen between 11PM and 3AM.
+
+<br/>
 
 ## 🛠️ Tech Stack (a.k.a. My Weapons of Choice)
 
@@ -118,40 +123,56 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
 
+<br/><br/>
+
 **Backend & Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
+
+<br/><br/>
 
 **Mobile & Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,c,cpp,cs" />
 
- <div>
-   
+<br/><br/>
+
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman,figma" />
----
+
+</div>
+
+<br/>
 
 ## 📊 The Receipts (GitHub Stats)
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-
 <img width="49%" src="https://streak-stats.demolab.com?user=abel2800&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
 
 </div>
 
----
+<br/>
+
+## 🏆 Trophy Room
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abel2800&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+
+</div>
+
+<br/>
 
 ## 🐍 Snek Eating My Contributions
 
@@ -161,9 +182,9 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 
 </div>
 
----
+<br/>
 
-## 🏆 Achievements Unlocked
+## 🎯 Achievements Unlocked
 
 - 🚀 Shipped a full logistics platform (customer + driver + merchant + admin + warehouse) solo-ish
 - 📖 Built a Bible study app in Amharic *and* English because representation matters
@@ -171,7 +192,7 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 - 🎮 Built shooting games because sometimes you need to blow off steam in code, not in real life
 - ☕ Successfully converted 1,000+ cups of coffee into working software
 
----
+<br/>
 
 ## 🎯 Current Focus
 
@@ -183,7 +204,7 @@ $ cat current_focus.txt
 > Pretending my code doesn't have TODO comments from 2024
 ```
 
----
+<br/>
 
 ## 📬 Let's Build Something
 
@@ -248,4 +269,3 @@ jobs:
 Commit that file, run the workflow once from the **Actions** tab (or just push), and the `output` branch gets created automatically with the snake SVG. After that first run, the image in this README will load.
 
 </details>
-
