@@ -130,8 +130,6 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman,figma" />
-
-</div>
 ---
 
 ## 📊 The Receipts (GitHub Stats)
@@ -148,7 +146,7 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 
 <br/>
 
-<img width="90%" src="https://ghchart.rshah.org/abel2800" alt="Abel's Github chart" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -249,3 +247,4 @@ jobs:
 Commit that file, run the workflow once from the **Actions** tab (or just push), and the `output` branch gets created automatically with the snake SVG. After that first run, the image in this README will load.
 
 </details>
+
