@@ -1,3 +1,6 @@
+give me the full code and the snake eatigng my contrbution and tin the recipt (github status us you can see the images are broken )
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:f59e0b&height=220&section=header&text=Kebede%20Abel%20Sirak&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20that%20break%20production%20(and%20then%20I%20fix%20them)&descAlignY=58&descSize=18" width="100%"/>
@@ -31,75 +34,16 @@ const abel = {
 
 I don't build tutorials. I build **products people actually use** — apps with real users, real payments, real drivers stuck in real Addis Ababa traffic. If it ships and someone yells at me when it's down, it counts as a real project.
 
-<br/>
-
-## 🧩 Featured Repos (a.k.a. My Trophy Case)
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="left">
-
-### 🚚 [GUZO](https://github.com/abel2800/Guzo)
-Full Ethiopian logistics ecosystem — customer app, driver app, merchant + admin dashboards, warehouse management, live tracking. My magnum opus.
-<br/><br/>`TypeScript`
-
-</td>
-<td width="50%" valign="top" align="left">
-
-### 🌍 [Ethiopian-global-logistics](https://github.com/abel2800/Ethiopian-global-logistics)
-Complete logistics tracking and order management system, built end-to-end.
-<br/><br/>`JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="left">
-
-### 📖 [Bible-Pulse-Amharic-Bible](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)
-Cross-platform Flutter Bible study app — multiple translations (KJV, ASV, Amharic), devotionals, reading plans, hymns library.
-<br/><br/>`Dart`
-
-</td>
-<td width="50%" valign="top" align="left">
-
-### 🎓 [Campus-Hub](https://github.com/abel2800/Campus-Hub)
-Learning Management System built because complaining about my school's actual LMS wasn't shipping fast enough.
-<br/><br/>`JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="left">
-
-### 🌐 [Abel-portfolio](https://github.com/abel2800/Abel-portfolio)
-My personal site — bold colors, scroll animations, and proof I can design as well as I can code.
-<br/><br/>`JavaScript`
-
-</td>
-<td width="50%" valign="top" align="left">
-
-### 🏙️ [Rust-Town](https://github.com/abel2800/Rust-Town)
-A game project. Yes, it's written in C#, not Rust. Naming things is the hardest problem in computer science and I am not exempt.
-<br/><br/>`C#`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
+---
 
 ## 🚚 The Big One: GUZO
 
+<div align="left">
+
 **GUZO** is my flagship build — a full logistics ecosystem for Ethiopia, inspired by Cainiao, powered by way too much caffeine.
 
-<div align="center">
-
 | Module | Status |
-|---|:---:|
+|---|---|
 | 📱 Customer App | ✅ Shipped |
 | 🚗 Driver App | ✅ Shipped |
 | 🏪 Merchant Dashboard | ✅ Shipped |
@@ -109,11 +53,66 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 | 💳 Ethiopian Payment Integration | ✅ Shipped |
 | 🚛 Fleet & Courier Management | ✅ Shipped |
 
-</div>
-
 It's basically the reason my GitHub streak looks suspicious — 90% of my commits happen between 11PM and 3AM.
 
-<br/>
+</div>
+
+---
+
+## 🧩 Featured Repos (a.k.a. My Trophy Case)
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 [GUZO](https://github.com/abel2800/Guzo)
+Full Ethiopian logistics ecosystem — customer app, driver app, merchant + admin dashboards, warehouse management, live tracking. My magnum opus.
+<br/>`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [Ethiopian-global-logistics](https://github.com/abel2800/Ethiopian-global-logistics)
+Complete logistics tracking and order management system, built end-to-end.
+<br/>`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 [Bible-Pulse-Amharic-Bible](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)
+Cross-platform Flutter Bible study app — multiple translations (KJV, ASV, Amharic), devotionals, reading plans, hymns library.
+<br/>`Dart`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Campus-Hub](https://github.com/abel2800/Campus-Hub)
+Learning Management System built because complaining about my school's actual LMS wasn't shipping fast enough.
+<br/>`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Abel-portfolio](https://github.com/abel2800/Abel-portfolio)
+My personal site — bold colors, scroll animations, and proof I can design as well as I can code.
+<br/>`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ [Rust-Town](https://github.com/abel2800/Rust-Town)
+A game project. Yes, it's written in C#, not Rust. Naming things is the hardest problem in computer science and I am not exempt.
+<br/>`C#`
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack (a.k.a. My Weapons of Choice)
 
@@ -123,70 +122,54 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
 
-<br/><br/>
-
 **Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
 
 **Mobile & Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,c,cpp,cs" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,java,python,c" />
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" />
 
 </div>
 
-<br/>
+---
 
 ## 📊 The Receipts (GitHub Stats)
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/abel2800/abel2800/main/assets/stats.svg" />
-<img width="49%" src="https://raw.githubusercontent.com/abel2800/abel2800/main/assets/streak.svg" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&icon_color=f59e0b&text_color=e2e8f0" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abel2800&theme=react&hide_border=true&background=0f172a&ring=10b981&fire=f59e0b&currStreakLabel=10b981" />
 
 <br/>
 
-<img width="45%" src="https://raw.githubusercontent.com/abel2800/abel2800/main/assets/top-langs.svg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" />
 
-<br/><br/>
+<br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=react-dark&hide_border=true&bg_color=0f172a&color=10b981&line=f59e0b&point=ffffff" width="90%"/>
 
 </div>
 
-> ⚠️ These three cards now point to SVG files generated inside your own repo instead of the shared public Vercel instance (which has been intermittently returning 402/503 errors for months — see setup guide below). The activity graph above still uses a public instance and may occasionally break the same way; self-host it too if you want zero dependency on shared services.
-
-<br/>
-
-## 🏆 Trophy Room
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abel2800&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
-
-</div>
-
-<br/>
+---
 
 ## 🐍 Snek Eating My Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
+<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<sub>*(This image goes live the moment the GitHub Action below runs once — see setup step at the bottom 👇)*</sub>
 
 </div>
 
-<br/>
+---
 
-## 🎯 Achievements Unlocked
+## 🏆 Achievements Unlocked
 
 - 🚀 Shipped a full logistics platform (customer + driver + merchant + admin + warehouse) solo-ish
 - 📖 Built a Bible study app in Amharic *and* English because representation matters
@@ -194,7 +177,7 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 - 🎮 Built shooting games because sometimes you need to blow off steam in code, not in real life
 - ☕ Successfully converted 1,000+ cups of coffee into working software
 
-<br/>
+---
 
 ## 🎯 Current Focus
 
@@ -206,7 +189,7 @@ $ cat current_focus.txt
 > Pretending my code doesn't have TODO comments from 2024
 ```
 
-<br/>
+---
 
 ## 📬 Let's Build Something
 
@@ -269,54 +252,5 @@ jobs:
 ```
 
 Commit that file, run the workflow once from the **Actions** tab (or just push), and the `output` branch gets created automatically with the snake SVG. After that first run, the image in this README will load.
-
-</details>
-
-<details>
-<summary>🔧 One-time setup: fix the broken stats cards for good (click to expand)</summary>
-
-<br/>
-
-The public `github-readme-stats.vercel.app` instance has been paused/rate-limited by its maintainers for months (that's the source of the `402`/`503` errors — it's not your README). The fix below generates the cards as static SVGs inside your own repo on a schedule, so you stop depending on it entirely.
-
-In your `abel2800/abel2800` repo, create `.github/workflows/stats.yml` with this content:
-
-```yaml
-name: Generate Stats Cards
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate stats SVGs
-        uses: jstrieb/github-stats@master
-        with:
-          username: abel2800
-          access_token: ${{ secrets.GH_STATS_TOKEN }}
-          output_directory: assets/
-
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add assets/
-          git commit -m "Update stats cards" || echo "No changes"
-          git push
-```
-
-You'll need a Personal Access Token (classic, `public_repo` scope is enough) saved as a repo secret named `GH_STATS_TOKEN` — the default `GITHUB_TOKEN` doesn't have enough API quota for this. Generate one at GitHub → Settings → Developer settings → Personal access tokens, then add it under your `abel2800/abel2800` repo → Settings → Secrets and variables → Actions.
-
-Run the workflow once from the **Actions** tab, and `assets/stats.svg`, `assets/top-langs.svg` will appear in your repo. For the streak card, either self-host `github-readme-streak-stats` on your own free Vercel deployment (instructions in its repo) and save the output as `assets/streak.svg` via the same Action, or keep it on the public `streak-stats.demolab.com` domain — that one has been more stable than `github-readme-stats.vercel.app`.
 
 </details>
