@@ -149,18 +149,20 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=abel2800&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://raw.githubusercontent.com/abel2800/abel2800/main/assets/stats.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/abel2800/abel2800/main/assets/streak.svg" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="45%" src="https://raw.githubusercontent.com/abel2800/abel2800/main/assets/top-langs.svg" />
 
 <br/><br/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+> ⚠️ These three cards now point to SVG files generated inside your own repo instead of the shared public Vercel instance (which has been intermittently returning 402/503 errors for months — see setup guide below). The activity graph above still uses a public instance and may occasionally break the same way; self-host it too if you want zero dependency on shared services.
 
 <br/>
 
@@ -267,5 +269,54 @@ jobs:
 ```
 
 Commit that file, run the workflow once from the **Actions** tab (or just push), and the `output` branch gets created automatically with the snake SVG. After that first run, the image in this README will load.
+
+</details>
+
+<details>
+<summary>🔧 One-time setup: fix the broken stats cards for good (click to expand)</summary>
+
+<br/>
+
+The public `github-readme-stats.vercel.app` instance has been paused/rate-limited by its maintainers for months (that's the source of the `402`/`503` errors — it's not your README). The fix below generates the cards as static SVGs inside your own repo on a schedule, so you stop depending on it entirely.
+
+In your `abel2800/abel2800` repo, create `.github/workflows/stats.yml` with this content:
+
+```yaml
+name: Generate Stats Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats SVGs
+        uses: jstrieb/github-stats@master
+        with:
+          username: abel2800
+          access_token: ${{ secrets.GH_STATS_TOKEN }}
+          output_directory: assets/
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/
+          git commit -m "Update stats cards" || echo "No changes"
+          git push
+```
+
+You'll need a Personal Access Token (classic, `public_repo` scope is enough) saved as a repo secret named `GH_STATS_TOKEN` — the default `GITHUB_TOKEN` doesn't have enough API quota for this. Generate one at GitHub → Settings → Developer settings → Personal access tokens, then add it under your `abel2800/abel2800` repo → Settings → Secrets and variables → Actions.
+
+Run the workflow once from the **Actions** tab, and `assets/stats.svg`, `assets/top-langs.svg` will appear in your repo. For the streak card, either self-host `github-readme-streak-stats` on your own free Vercel deployment (instructions in its repo) and save the output as `assets/streak.svg` via the same Action, or keep it on the public `streak-stats.demolab.com` domain — that one has been more stable than `github-readme-stats.vercel.app`.
 
 </details>
