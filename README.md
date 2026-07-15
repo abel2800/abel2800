@@ -9,7 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=abel2800&label=Profile%20Views&color=10b981&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/abel2800?label=Followers&style=for-the-badge&color=f59e0b" />
 <img src="https://img.shields.io/badge/Status-Shipping%20GUZO-0f172a?style=for-the-badge&logo=rocket&logoColor=white" />
-
 </div>
 
 <br/>
@@ -127,6 +126,8 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 <br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,c,cpp,cs" />
 
+ <div>
+   
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman,figma" />
@@ -156,7 +157,7 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
 
 </div>
 
