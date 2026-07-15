@@ -1,215 +1,280 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:f59e0b&height=220&section=header&text=Kebede%20Abel%20Sirak&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20that%20break%20production%20(and%20then%20I%20fix%20them)&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Building+GUZO+-+Ethiopia's+Logistics+Backbone+%F0%9F%9A%9A;Turning+Coffee+Into+Code+Since+College+%E2%98%95;Ask+Me+Why+My+Repo+Is+Called+Rust-Town+%F0%9F%A4%A0&font=Fira%20Code&center=true&width=650&height=45&color=10B981&vCenter=true&size=22&pause=1500" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:10b981,100:0a0a0f&height=250&section=header&text=ABEL%20SIRAK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%94%20I%20ship%2C%20not%20talk&descAlignY=55&descSize=20&fontVersion=custom"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=abel2800&label=Profile%20Views&color=10b981&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/abel2800?label=Followers&style=for-the-badge&color=f59e0b" />
-<img src="https://img.shields.io/badge/Status-Shipping%20GUZO-0f172a?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com/?lines=const+developer+%3D+%7B+ships:+true+%7D%3B;Building+production+systems%2C+not+todo+apps;Full-stack+%7C+Mobile+%7C+Systems+design;Currently%3A+architecting+GUZO's+core+engine&font=Fira+Code&center=true&width=750&height=50&color=10B981&vCenter=true&size=21&pause=1800&separator=%7C"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/status-in__the__zone-10b981?style=for-the-badge&labelColor=0a0a0f"/>
+<img src="https://komarev.com/ghpvc/?username=abel2800&label=PROFILE+VIEWS&color=0a0a0f&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/abel2800?label=FOLLOWERS&style=for-the-badge&color=0a0a0f&labelColor=10b981"/>
 
 </div>
 
 <br/>
 
-## 🇪🇹 About the Human Behind the Commits
-
-```typescript
-const abel = {
-  location: "Addis Ababa, Ethiopia 🇪🇹",
-  degree: "B.Sc. Computer Science @ Ankang University, China",
-  currentMission: "Building GUZO — a Cainiao-style logistics ecosystem, but Ethiopian",
-  personality: "50% engineer, 50% comedian, 100% will-fix-it-tonight energy",
-  superpower: "Turning 'that's impossible' into 'give me a weekend'",
-  weakness: "Choosing a Netflix movie takes longer than shipping a feature",
-};
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  root@abel:~$ whoami                                             │
+├─────────────────────────────────────────────────────────────────┤
+│  > Full-stack engineer based in Addis Ababa, Ethiopia            │
+│  > B.Sc. Computer Science — Ankang University, China             │
+│  > Architecting GUZO — a nationwide logistics engine, solo-built │
+│  > I don't ship demos. I ship things that handle real traffic,   │
+│    real payments, and real users who will absolutely notice      │
+│    when it's down at 2AM.                                        │
+│  > 90% of my commits happen between 11PM and 3AM. Don't ask.     │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-> 💬 **Fun fact:** I don't have bugs. I have *undocumented features* with a very aggressive rollout strategy.
+<br/>
 
-I don't build tutorials. I build **products people actually use** — apps with real users, real payments, real drivers stuck in real Addis Ababa traffic. If it ships and someone yells at me when it's down, it counts as a real project.
-
----
-
-## 🚚 The Big One: GUZO
-
-<div align="left">
-
-**GUZO** is my flagship build — a full logistics ecosystem for Ethiopia, inspired by Cainiao, powered by way too much caffeine.
-
-| Module | Status |
-|---|---|
-| 📱 Customer App | ✅ Shipped |
-| 🚗 Driver App | ✅ Shipped |
-| 🏪 Merchant Dashboard | ✅ Shipped |
-| 🛠️ Admin Dashboard | ✅ Shipped |
-| 📦 Warehouse Management | ✅ Shipped |
-| 🗺️ Live Order Tracking + Route Optimization | ✅ Shipped |
-| 💳 Ethiopian Payment Integration | ✅ Shipped |
-| 🚛 Fleet & Courier Management | ✅ Shipped |
-
-It's basically the reason my GitHub streak looks suspicious — 90% of my commits happen between 11PM and 3AM.
-
-</div>
-
----
-
-## 🧩 Featured Repos (a.k.a. My Trophy Case)
+## ⚡ What I Actually Build
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🚚 [GUZO](https://github.com/abel2800/Guzo)
-Full Ethiopian logistics ecosystem — customer app, driver app, merchant + admin dashboards, warehouse management, live tracking. My magnum opus.
-<br/>`TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 [Ethiopian-global-logistics](https://github.com/abel2800/Ethiopian-global-logistics)
-Complete logistics tracking and order management system, built end-to-end.
-<br/>`JavaScript`
+### 🧠 System Design
+I don't start with code — I start with the failure modes. Every project begins with "what breaks this at 10x scale."
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 📖 [Bible-Pulse-Amharic-Bible](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)
-Cross-platform Flutter Bible study app — multiple translations (KJV, ASV, Amharic), devotionals, reading plans, hymns library.
-<br/>`Dart`
+### 🎨 Interfaces That Feel Alive
+Motion, physics-based animation, 3D perspective — if it's on screen, it should feel engineered, not templated.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🎓 [Campus-Hub](https://github.com/abel2800/Campus-Hub)
-Learning Management System built because complaining about my school's actual LMS wasn't shipping fast enough.
-<br/>`JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Abel-portfolio](https://github.com/abel2800/Abel-portfolio)
-My personal site — bold colors, scroll animations, and proof I can design as well as I can code.
-<br/>`JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏙️ [Rust-Town](https://github.com/abel2800/Rust-Town)
-A game project. Yes, it's written in C#, not Rust. Naming things is the hardest problem in computer science and I am not exempt.
-<br/>`C#`
+### 🚀 Full Ownership
+Frontend, backend, database, mobile, deployment. I don't hand off — I ship the whole stack myself.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack (a.k.a. My Weapons of Choice)
+## 🛠️ Stack
 
 <div align="center">
 
-**Frontend**
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
-
-**Backend & Database**
+<img src="https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B"/>
+<img src="https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2"/>
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120"/>
+<img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
-
-**Mobile & Languages**
+<img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,java,python,c" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" />
+<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/-Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
 
 </div>
 
----
+<br/>
 
-## 📊 The Receipts (GitHub Stats)
+## 🏗️ Flagship Build
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+### GUZO — Nationwide Logistics Engine
 
-<img width="49%" src="https://streak-stats.demolab.com?user=abel2800&theme=tokyonight&hide_border=true" />
+*A full logistics ecosystem for Ethiopia — customer app, driver app, merchant + admin dashboards, live tracking, warehouse ops, and payments. Built solo, end-to-end, from data model to UI motion design.*
 
-<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Tracking-10b981?style=flat-square"/>
+<img src="https://img.shields.io/badge/Payments-f59e0b?style=flat-square"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-<br/>
+| | | |
+|:---:|:---:|:---:|
+| 📱 Customer App | 🚗 Driver App | 🏪 Merchant Dashboard |
+| 🛠️ Admin Console | 📦 Warehouse Ops | 🗺️ Live Route Tracking |
+| 💳 Payment Rails | 🚛 Fleet Management | 📊 Real-time Analytics |
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
+**[→ View the repo](https://github.com/abel2800/Guzo)**
 
 </div>
 
----
+<br/>
 
-## 🐍 Snek Eating My Contributions
+## 📂 Also Shipped
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🌍 [Ethiopian Global Logistics](https://github.com/abel2800/Ethiopian-global-logistics)**
+End-to-end order tracking and management system.
+`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+**📖 [Bible Pulse](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)**
+Cross-platform Flutter Bible app — Amharic + English, devotionals, reading plans.
+`Dart` `Flutter`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 [Campus Hub](https://github.com/abel2800/Campus-Hub)**
+A learning management system — built because complaining wasn't shipping fast enough.
+`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+**🏙️ [Rust-Town](https://github.com/abel2800/Rust-Town)**
+A game engine project. Named "Rust," written in C#. Naming things is undefeated.
+`C#`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 Metrics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img width="49%" src="https://raw.githubusercontent.com/abel2800/abel2800/main/assets/stats.svg"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=abel2800&theme=dark&hide_border=true&background=0a0a0f&ring=10b981&fire=f59e0b&currStreakLabel=10b981"/>
 
-<sub>*(This image goes live the moment the GitHub Action below runs once — see setup step at the bottom 👇)*</sub>
+<br/>
+
+<img width="45%" src="https://raw.githubusercontent.com/abel2800/abel2800/main/assets/top-langs.svg"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=react-dark&bg_color=0a0a0f&color=10b981&line=f59e0b&point=ffffff&hide_border=true"/>
 
 </div>
 
----
+> ⚠️ `stats.svg` and `top-langs.svg` are generated inside this repo via GitHub Actions instead of the shared public instance (which has been unreliable for months). Setup steps are in the collapsible section at the bottom.
 
-## 🏆 Achievements Unlocked
+<br/>
 
-- 🚀 Shipped a full logistics platform (customer + driver + merchant + admin + warehouse) solo-ish
-- 📖 Built a Bible study app in Amharic *and* English because representation matters
-- 🎓 Built a Campus Hub LMS instead of just complaining about my school's actual LMS
-- 🎮 Built shooting games because sometimes you need to blow off steam in code, not in real life
-- ☕ Successfully converted 1,000+ cups of coffee into working software
+## 🐍 Contribution Snake
 
----
+<div align="center">
 
-## 🎯 Current Focus
+<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abel2800&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10"/>
+
+</div>
+
+<br/>
+
+## 🎯 On the Bench Right Now
 
 ```bash
 $ cat current_focus.txt
-> Scaling GUZO across Ethiopian cities
-> Getting comfortable with Flutter state management (send help)
-> Learning to say "no" to feature requests at 2AM
-> Pretending my code doesn't have TODO comments from 2024
+> Scaling GUZO's driver-matching engine across Ethiopian cities
+> Getting properly fluent in Flutter state management
+> Building an AI desktop assistant (F.R.I.D.A.Y.) in Python
+> Learning to say "no" to 2AM feature requests
 ```
 
----
+<br/>
 
-## 📬 Let's Build Something
+## 📬 Reach Out
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-sirak/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://abel-portfolio-iota.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:absir28@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abel2800)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-10b981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://www.linkedin.com/in/abel-sirak/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-f59e0b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f)](https://abel-portfolio-iota.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:absir28@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-f59e0b?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/abel2800)
 
 <br/>
 
-> *"It's not a bug, it's an undocumented feature."* — Me, defending my life choices at 3AM
+> *"It's not a bug, it's an undocumented feature."* — me, at 3AM, defending my life choices
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:10b981,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:10b981,100:0a0a0f&height=120&section=footer"/>
 
 </div>
 
 ---
 
-Commit that file, run the workflow once from the **Actions** tab (or just push), and the `output` branch gets created automatically with the snake SVG. After that first run, the image in this README will load.
+<details>
+<summary>🔧 Setup: contribution snake workflow</summary>
+
+<br/>
+
+In your `abel2800/abel2800` repo, create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: abel2800
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Push it, run the workflow once from the **Actions** tab, and the `output` branch gets created automatically with the snake SVG.
 
 </details>
+
+<details>
+<summary>🔧 Setup: stats cards that don't randomly 402/503</summary>
+
+<br/>
+
