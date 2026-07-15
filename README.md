@@ -148,7 +148,7 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
+<img width="90%" src="https://ghchart.rshah.org/abel2800" alt="Abel's Github chart" />
 
 </div>
 
