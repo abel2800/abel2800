@@ -253,4 +253,3 @@ Commit that file, run the workflow once from the **Actions** tab (or just push),
 
 </details>
 
-why do i have a broken image in the image us you can see 
