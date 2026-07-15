@@ -1,6 +1,3 @@
-give me the full code and the snake eatigng my contrbution and tin the recipt (github status us you can see the images are broken )
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:f59e0b&height=220&section=header&text=Kebede%20Abel%20Sirak&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20that%20break%20production%20(and%20then%20I%20fix%20them)&descAlignY=58&descSize=18" width="100%"/>
