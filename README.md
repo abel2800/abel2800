@@ -130,6 +130,8 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman,figma" />
+
+</div>
 ---
 
 ## 📊 The Receipts (GitHub Stats)
