@@ -142,16 +142,17 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&icon_color=f59e0b&text_color=e2e8f0" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abel2800&theme=react&hide_border=true&background=0f172a&ring=10b981&fire=f59e0b&currStreakLabel=10b981" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=abel2800&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=react&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=react-dark&hide_border=true&bg_color=0f172a&color=10b981&line=f59e0b&point=ffffff" width="90%"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
 
 </div>
 
