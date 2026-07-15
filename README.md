@@ -252,4 +252,3 @@ jobs:
 Commit that file, run the workflow once from the **Actions** tab (or just push), and the `output` branch gets created automatically with the snake SVG. After that first run, the image in this README will load.
 
 </details>
-
