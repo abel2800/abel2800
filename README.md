@@ -137,19 +137,15 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 
 ## 📊 The Receipts (GitHub Stats)
 
+## 📊 The Receipts (GitHub Stats)
+
 <div align="center">
 
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abel2800&theme=tokyonight" />
-&nbsp;
-<img width="42%" src="https://streak-stats.demolab.com?user=abel2800&theme=tokyonight&hide_border=true" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abel2800&theme=tokyonight" /><img width="31%" src="https://streak-stats.demolab.com?user=abel2800&theme=tokyonight&hide_border=true" /><img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abel2800&theme=tokyonight" />
 
 <br/><br/>
 
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abel2800&theme=tokyonight" />
-
-<br/><br/>
-
-<img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
 
 </div>
 
