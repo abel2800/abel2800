@@ -139,13 +139,13 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abel2800&theme=tokyonight" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=abel2800&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abel2800&theme=tokyonight" />
 
 <br/>
 
