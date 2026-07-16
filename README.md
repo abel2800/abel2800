@@ -161,7 +161,6 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 
 <img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<sub>*(This image goes live the moment the GitHub Action below runs once — see setup step at the bottom 👇)*</sub>
 
 </div>
 
