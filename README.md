@@ -137,7 +137,6 @@ A game project. Yes, it's written in C#, not Rust. Naming things is the hardest 
 
 ## 📊 The Receipts (GitHub Stats)
 
-## 📊 The Receipts (GitHub Stats)
 
 <div align="center">
 
