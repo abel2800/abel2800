@@ -56,6 +56,61 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 
 ---
 
+## 🧩 Featured Repos (a.k.a. My Trophy Case)
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 [GUZO](https://github.com/abel2800/Guzo)
+Full Ethiopian logistics ecosystem — customer app, driver app, merchant + admin dashboards, warehouse management, live tracking. My magnum opus.
+<br/>`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [Ethiopian-global-logistics](https://github.com/abel2800/Ethiopian-global-logistics)
+Complete logistics tracking and order management system, built end-to-end.
+<br/>`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 [Bible-Pulse-Amharic-Bible](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)
+Cross-platform Flutter Bible study app — multiple translations (KJV, ASV, Amharic), devotionals, reading plans, hymns library.
+<br/>`Dart`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Campus-Hub](https://github.com/abel2800/Campus-Hub)
+Learning Management System built because complaining about my school's actual LMS wasn't shipping fast enough.
+<br/>`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Abel-portfolio](https://github.com/abel2800/Abel-portfolio)
+My personal site — bold colors, scroll animations, and proof I can design as well as I can code.
+<br/>`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ [Rust-Town](https://github.com/abel2800/Rust-Town)
+A game project. Yes, it's written in C#, not Rust. Naming things is the hardest problem in computer science and I am not exempt.
+<br/>`C#`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack (a.k.a. My Weapons of Choice)
 
 <div align="center">
@@ -89,6 +144,17 @@ It's basically the reason my GitHub streak looks suspicious — 90% of my commit
 <br/><br/>
 
 <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Snek Eating My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 
 </div>
 
