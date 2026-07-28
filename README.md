@@ -34,10 +34,3 @@ Full-stack software engineer based in Addis Ababa, Ethiopia — building softwar
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=abel2800&show_icons=true&theme=dark&hide_border=true" alt="Abel's GitHub stats"/>
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
-
-### Featured Projects
-
-- **[GUZO](https://github.com/abel2800/Guzo)** — full logistics ecosystem: customer app, driver app, merchant + admin dashboards, warehouse management, live tracking
-- **[Ethiopian Global Logistics](https://github.com/abel2800/Ethiopian-global-logistics)** — end-to-end logistics tracking and order management
-- **[BiblePulse](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)** — offline-first Flutter Bible app with Amharic and English translations
-- **[Campus Hub](https://github.com/abel2800/Campus-Hub)** — university LMS and social platform
