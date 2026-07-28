@@ -31,8 +31,8 @@ Full-stack software engineer based in Addis Ababa, Ethiopia — building softwar
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="Abel's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=abel2800&show_icons=true&theme=dark&hide_border=true" alt="Abel's GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ### Featured Projects
