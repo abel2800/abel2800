@@ -1,94 +1,43 @@
-<div align="center">
+# Hi, I'm Abel Sirak Kebede 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Abel%20Sirak%20Kebede&fontSize=38&fontColor=f5f5f4&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Addis%20Ababa,%20Ethiopia&descAlignY=62&descSize=16" width="100%"/>
+Full-stack software engineer based in Addis Ababa, Ethiopia — building software for the Ethiopian market: logistics, ride-hailing, and faith-tech products.
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-sirak/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://abel-portfolio-iota.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-absir28%40gmail.com-b45309?style=flat-square&logo=gmail&logoColor=white)](mailto:absir28@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abel2800)
-
-</div>
-
-<br/>
-
-## About
-
-I'm a full-stack software engineer based in Addis Ababa, building production software for the Ethiopian market — logistics, ride-hailing, and creator-economy platforms with real users, real payments, and real operational constraints (low connectivity, local payment rails, Amharic-first interfaces).
-
+- 🔭 Currently building **GariGo** — a ride-hailing platform for Addis Ababa, and **BiblePulse** — an offline-first Amharic/English Bible app
+- 🚚 Previously shipped **GUZO**, a full logistics ecosystem (customer, driver, merchant, admin, warehouse)
 - 🎓 B.Sc. Computer Science, Ankang University
-- 🛠️ Comfortable across the stack: Flutter, React/Vite, Node/Express, PostgreSQL
-- 🇪🇹 Focused on products designed around Ethiopia-specific realities, not adapted from Western defaults
+- 💬 Ask me about **Flutter**, **React**, or building for low-connectivity, local-payment environments
+- 📫 Reach me at **absir28@gmail.com**
 
-<br/>
+### Languages and Tools
 
-## Featured Work
+[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org)
+[![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
+[![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)](https://expressjs.com)
+[![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org)
+[![flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)](https://flutter.dev)
+[![dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg)](https://dart.dev)
+[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org)
+[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
+[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
+[![tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg)](https://tailwindcss.com)
+[![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg)](https://git-scm.com)
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### Connect with me
 
-**[GUZO](https://github.com/abel2800/Guzo)**
-Full logistics ecosystem for Ethiopia — customer app, driver app, merchant dashboard, admin dashboard, warehouse management, live tracking and route optimization, local payment integration.
-`TypeScript`
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/abel-sirak/)
+[![Portfolio](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg)](https://abel-portfolio-iota.vercel.app/)
+[![Gmail](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg)](mailto:absir28@gmail.com)
 
-</td>
-<td width="50%" valign="top">
+### GitHub Stats
 
-**[Ethiopian Global Logistics](https://github.com/abel2800/Ethiopian-global-logistics)**
-End-to-end logistics tracking and order management system.
-`JavaScript`
+[![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&theme=default&hide_border=true)](https://github.com/abel2800)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abel2800&layout=compact&theme=default&hide_border=true)](https://github.com/abel2800)
 
-**[BiblePulse](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)**
-Offline-first cross-platform Bible study app — multiple translations including Amharic, devotional plans, and a hymns library.
-`Dart` · `Flutter`
+### Featured Projects
 
-</td>
-<td width="50%" valign="top">
-
-**[Campus Hub](https://github.com/abel2800/Campus-Hub)**
-Learning management and campus social platform built for university use.
-`JavaScript`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,flutter,nodejs,express,postgres,mysql,html,css,tailwind,figma,git,github,vscode&theme=dark" />
-
-</div>
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=abel2800&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
-
-</div>
+- **[GUZO](https://github.com/abel2800/Guzo)** — full logistics ecosystem: customer app, driver app, merchant + admin dashboards, warehouse management, live tracking
+- **[Ethiopian Global Logistics](https://github.com/abel2800/Ethiopian-global-logistics)** — end-to-end logistics tracking and order management
+- **[BiblePulse](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)** — offline-first Flutter Bible app with Amharic and English translations
+- **[Campus Hub](https://github.com/abel2800/Campus-Hub)** — university LMS and social platform
