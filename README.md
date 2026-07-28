@@ -1,11 +1,9 @@
 # Hi, I'm Abel Sirak Kebede 👋
 
-Full-stack software engineer based in Addis Ababa, Ethiopia — building software for the Ethiopian market: logistics, ride-hailing, and faith-tech products.
+Full-stack software engineer based in Addis Ababa, Ethiopia.
 
-- 🔭 Currently building **GariGo** — a ride-hailing platform for Addis Ababa, and **BiblePulse** — an offline-first Amharic/English Bible app
-- 🚚 Previously shipped **GUZO**, a full logistics ecosystem (customer, driver, merchant, admin, warehouse)
 - 🎓 B.Sc. Computer Science, Ankang University
-- 💬 Ask me about **Flutter**, **React**, or building for low-connectivity, local-payment environments
+- 💬 Ask me about **Flutter**, **React**, and full-stack development
 - 📫 Reach me at **absir28@gmail.com**
 
 ### Languages and Tools
