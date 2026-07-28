@@ -1,208 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:10b981,100:f59e0b&height=220&section=header&text=Kebede%20Abel%20Sirak&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20that%20break%20production%20(and%20then%20I%20fix%20them)&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Building+GUZO+-+Ethiopia's+Logistics+Backbone+%F0%9F%9A%9A;Turning+Coffee+Into+Code+Since+College+%E2%98%95;Ask+Me+Why+My+Repo+Is+Called+Rust-Town+%F0%9F%A4%A0&font=Fira%20Code&center=true&width=650&height=45&color=10B981&vCenter=true&size=22&pause=1500" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Abel%20Sirak%20Kebede&fontSize=38&fontColor=f5f5f4&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Addis%20Ababa,%20Ethiopia&descAlignY=62&descSize=16" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=abel2800&label=Profile%20Views&color=10b981&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/abel2800?label=Followers&style=for-the-badge&color=f59e0b" />
-<img src="https://img.shields.io/badge/Status-Shipping%20GUZO-0f172a?style=for-the-badge&logo=rocket&logoColor=white" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-sirak/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://abel-portfolio-iota.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-absir28%40gmail.com-b45309?style=flat-square&logo=gmail&logoColor=white)](mailto:absir28@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abel2800)
 
 </div>
 
 <br/>
 
-## 🇪🇹 About the Human Behind the Commits
+## About
 
-```typescript
-const abel = {
-  location: "Addis Ababa, Ethiopia 🇪🇹",
-  degree: "B.Sc. Computer Science @ Ankang University, China",
-  currentMission: "Building GUZO — a Cainiao-style logistics ecosystem, but Ethiopian",
-  personality: "50% engineer, 50% comedian, 100% will-fix-it-tonight energy",
-  superpower: "Turning 'that's impossible' into 'give me a weekend'",
-  weakness: "Choosing a Netflix movie takes longer than shipping a feature",
-};
-```
+I'm a full-stack software engineer based in Addis Ababa, building production software for the Ethiopian market — logistics, ride-hailing, and creator-economy platforms with real users, real payments, and real operational constraints (low connectivity, local payment rails, Amharic-first interfaces).
 
-> 💬 **Fun fact:** I don't have bugs. I have *undocumented features* with a very aggressive rollout strategy.
+- 🎓 B.Sc. Computer Science, Ankang University
+- 🛠️ Comfortable across the stack: Flutter, React/Vite, Node/Express, PostgreSQL
+- 🇪🇹 Focused on products designed around Ethiopia-specific realities, not adapted from Western defaults
 
-I don't build tutorials. I build **products people actually use** — apps with real users, real payments, real drivers stuck in real Addis Ababa traffic. If it ships and someone yells at me when it's down, it counts as a real project.
+<br/>
 
----
-
-## 🚚 The Big One: GUZO
-
-<div align="left">
-
-**GUZO** is my flagship build — a full logistics ecosystem for Ethiopia, inspired by Cainiao, powered by way too much caffeine.
-
-| Module | Status |
-|---|---|
-| 📱 Customer App | ✅ Shipped |
-| 🚗 Driver App | ✅ Shipped |
-| 🏪 Merchant Dashboard | ✅ Shipped |
-| 🛠️ Admin Dashboard | ✅ Shipped |
-| 📦 Warehouse Management | ✅ Shipped |
-| 🗺️ Live Order Tracking + Route Optimization | ✅ Shipped |
-| 💳 Ethiopian Payment Integration | ✅ Shipped |
-| 🚛 Fleet & Courier Management | ✅ Shipped |
-
-It's basically the reason my GitHub streak looks suspicious — 90% of my commits happen between 11PM and 3AM.
-
-</div>
-
----
-
-## 🧩 Featured Repos (a.k.a. My Trophy Case)
+## Featured Work
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🚚 [GUZO](https://github.com/abel2800/Guzo)
-Full Ethiopian logistics ecosystem — customer app, driver app, merchant + admin dashboards, warehouse management, live tracking. My magnum opus.
-<br/>`TypeScript`
+**[GUZO](https://github.com/abel2800/Guzo)**
+Full logistics ecosystem for Ethiopia — customer app, driver app, merchant dashboard, admin dashboard, warehouse management, live tracking and route optimization, local payment integration.
+`TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌍 [Ethiopian-global-logistics](https://github.com/abel2800/Ethiopian-global-logistics)
-Complete logistics tracking and order management system, built end-to-end.
-<br/>`JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📖 [Bible-Pulse-Amharic-Bible](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)
-Cross-platform Flutter Bible study app — multiple translations (KJV, ASV, Amharic), devotionals, reading plans, hymns library.
-<br/>`Dart`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [Campus-Hub](https://github.com/abel2800/Campus-Hub)
-Learning Management System built because complaining about my school's actual LMS wasn't shipping fast enough.
-<br/>`JavaScript`
+**[Ethiopian Global Logistics](https://github.com/abel2800/Ethiopian-global-logistics)**
+End-to-end logistics tracking and order management system.
+`JavaScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Abel-portfolio](https://github.com/abel2800/Abel-portfolio)
-My personal site — bold colors, scroll animations, and proof I can design as well as I can code.
-<br/>`JavaScript`
+**[BiblePulse](https://github.com/abel2800/Bible-Pulse-Amharic-Bible-)**
+Offline-first cross-platform Bible study app — multiple translations including Amharic, devotional plans, and a hymns library.
+`Dart` · `Flutter`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏙️ [Rust-Town](https://github.com/abel2800/Rust-Town)
-A game project. Yes, it's written in C#, not Rust. Naming things is the hardest problem in computer science and I am not exempt.
-<br/>`C#`
+**[Campus Hub](https://github.com/abel2800/Campus-Hub)**
+Learning management and campus social platform built for university use.
+`JavaScript`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack (a.k.a. My Weapons of Choice)
+## Tech Stack
 
 <div align="center">
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
-
-**Backend & Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
-
-**Mobile & Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,java,python,c" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,flutter,nodejs,express,postgres,mysql,html,css,tailwind,figma,git,github,vscode&theme=dark" />
 
 </div>
 
----
+<br/>
 
-## 📊 The Receipts (GitHub Stats)
+## GitHub Activity
 
 <div align="center">
 
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abel2800&theme=tokyonight" /><img width="31%" src="https://streak-stats.demolab.com?user=abel2800&theme=tokyonight&hide_border=true&card_width=340&card_height=195" /><img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abel2800&theme=tokyonight" />
-
-<br/><br/>
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Snek Eating My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abel2800/abel2800/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-
-</div>
-
----
-
-## 🏆 Achievements Unlocked
-
-- 🚀 Shipped a full logistics platform (customer + driver + merchant + admin + warehouse) solo-ish
-- 📖 Built a Bible study app in Amharic *and* English because representation matters
-- 🎓 Built a Campus Hub LMS instead of just complaining about my school's actual LMS
-- 🎮 Built shooting games because sometimes you need to blow off steam in code, not in real life
-- ☕ Successfully converted 1,000+ cups of coffee into working software
-
----
-
-## 🎯 Current Focus
-
-```bash
-$ cat current_focus.txt
-> Scaling GUZO across Ethiopian cities
-> Getting comfortable with Flutter state management (send help)
-> Learning to say "no" to feature requests at 2AM
-> Pretending my code doesn't have TODO comments from 2024
-```
-
----
-
-## 📬 Let's Build Something
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-sirak/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://abel-portfolio-iota.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:absir28@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abel2800)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abel2800&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=abel2800&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-> *"It's not a bug, it's an undocumented feature."* — Me, defending my life choices at 3AM
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:10b981,100:0f172a&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abel2800&theme=tokyo-night&hide_border=true" />
 
 </div>
 
----
+<br/>
 
-Commit that file, run the workflow once from the **Actions** tab (or just push), and the `output` branch gets created automatically with the snake SVG. After that first run, the image in this README will load.
+<div align="center">
 
-</details>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
